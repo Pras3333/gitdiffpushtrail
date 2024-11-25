@@ -1,1 +1,23 @@
 You must know what your doing First. Git is imp. 
+
+
+Things you did to your files. -- Unstaged here
+
+
+This is my modification for the Firstfile.txt.
+
+Also add to staging
+
+Use git reset head Firstfile.txt   
+
+ to unstage the files. 
+
+
+
+The below lines are add for the second commit. 
+
+
+Add to the staging 
+Commit to the local Repo.
+
+Use git reset commit_SHA - Which must reset to a Previous commit history. 

@@ -1,8 +1,17 @@
 This is the Second file. You need to know Git and use comfortable. 
 
-Git commands are important. 
+Git commands are important.
+
+This is my Second change that I have to push to staging. 
 
 
 
 
 
+
+The below lines are added for the second commit. 
+
+Add to the staging 
+Commit to the local Repo.
+
+Use git reset commit_SHA - Which must reset to a Previous commit history. 
